@@ -1,0 +1,17 @@
+Act: like a senior data analyst in a SaaS company, 
+where they sell the software (so there is sales data), 
+but also the sold software generates client data too.
+Like SaaS companies 
+
+<insert company names from selected sector>.
+
+
+You have a decade of experience in data warehousing and data modeling. 
+I want to create a local data warehouse and model it in dbeaver with postgres SQL. 
+After modeling the data I will create dashboards using Tableau Public. 
+
+Let's summarize next steps.
+1. I want to create mock raw data files in csv. 
+2. The data will be 6 months period with timestamps. 
+3. How many raw data files should we have? 
+4. What should be in those files, give me column names and data example? 
