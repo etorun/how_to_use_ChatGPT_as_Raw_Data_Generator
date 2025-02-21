@@ -1,4 +1,4 @@
-# 🎯 Goals
+# 🎯 Goal
 
 This project aims to showcase the help of Chat GPT creating a mock data. 
 For any kind of data projects, rather than working with a random data, you can create a business-related data and work on real business cases/tasks/questions/problems. 
